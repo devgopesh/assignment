@@ -1,0 +1,22 @@
+.messages {
+	width: 400px;
+	float: left;
+	margin: 100px;
+	border: 1px solid grey;
+}
+
+.block1 {
+	width: 400px;
+	height: 300px;
+	overflow: scroll;
+	float: left;
+	padding: 16px;
+}
+
+.block2 {
+	width: 400px;;
+	height: 300px;
+	padding: 16px;
+	float: right;
+	overflow: scroll;
+}
